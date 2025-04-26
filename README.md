@@ -4,12 +4,12 @@
 Port-Echo is a Spaceport starter kit that provides the most basic structure and configuration
 for building a Spaceport application, with no other assumptions.
 
-See also: [Spaceport](https://spaceport.com.co/docs/scaffolds#echo) for more information.
+See also: [Scaffolds](https://spaceport.com.co/docs/scaffolds#echo) for more information.
 
 
 ## Getting Started
-If this is your first time using Spaceport, perhaps consider starting with the PORT-MERCURY,
-or PORT-PIONEER starter kits, which provide the same basic structure and configuration, but
+If this is your first time using Spaceport, perhaps consider starting with the PORT-PIONEER,
+or PORT-MERCURY starter kits, which provide the same basic structure and configuration, but
 provide some basic functionality to get you started. Use Port-Echo if you want to start
 from scratch and want to implement the basics yourself.
 
