@@ -1,0 +1,36 @@
+# Spaceport configuration manifest file (ECHO)
+# See also: https://www.spaceport.com.co/docs/configuration-manifest
+
+spaceport name: port-echo
+
+# Optional, defaults to the current working directory
+# spaceport root: /users/jeremy/spaceport
+# Or, Windows style
+# spaceport root: C:\users\jeremy\spaceport
+
+host:
+    address: 127.0.0.1
+    port: 10000
+
+debug: true
+
+log:
+    enabled: true
+    path: logs/
+
+memory cores:
+    main:
+        address: 127.0.0.1:5984
+        # Optional, will prompt for username/password if not provided here
+        # username: admin
+        # password: password
+
+source modules:
+    paths:
+      - modules/
+
+static assets:
+    paths:
+        /assets/ : assets/
+
+
