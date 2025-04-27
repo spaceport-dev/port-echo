@@ -3,7 +3,7 @@
 
 spaceport name: port-echo
 
-# Optional, defaults to the current working directory
+# Optional, defaults to the working directory
 # spaceport root: /users/jeremy/spaceport
 # Or, Windows style
 # spaceport root: C:\users\jeremy\spaceport

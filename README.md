@@ -13,6 +13,8 @@ or PORT-MERCURY starter kits, which provide the same basic structure and configu
 provide some basic functionality to get you started. Use Port-Echo if you want to start
 from scratch and want to implement the basics yourself.
 
+Developer Onboarding: [https://spaceport.com.co/docs/developer-onboarding](https://spaceport.com.co/docs/developer-onboarding)
+
 
 ## Pre-requisites
 - Java 8 or higher
@@ -22,7 +24,7 @@ from scratch and want to implement the basics yourself.
 ## Features
 - Basic structure and configuration for a Spaceport application
 - No assumptions about the application
-- Ready to launch, just add your own code.
+- Ready to launch, just add your own code
 
 
 ## Startup
@@ -40,6 +42,7 @@ the following command to grab the latest version:
 ```bash 
 curl -L https://spaceport.com.co/builds/spaceport-latest.jar -o spaceport.jar
 ```
+
 
 ## Learn more
 For more information about Spaceport, visit the [Spaceport documentation](https://spaceport.com.co/docs).
