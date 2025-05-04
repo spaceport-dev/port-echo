@@ -14,7 +14,7 @@ host:
 
 debug: true
 
-log:
+logging:
     enabled: true
     path: logs/
 

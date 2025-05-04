@@ -35,5 +35,11 @@ class Echo {
         r.setStatus(503) // Service (temporarily) unavailable.
     }
 
+    // A simple GET route to the /echo endpoint that returns a JSON response
+    @Alert('on /echo GET')
+    static _echo(HttpResult r) {
+        r.writeToClient(['status': 'RUNNING', 'message': 'Hello, World—from Spaceport!'])
+    }
+
 
 }
