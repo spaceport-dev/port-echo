@@ -8,10 +8,10 @@ See also: [Scaffolds](https://spaceport.com.co/docs/scaffolds#echo) for more inf
 
 
 ## Getting Started
-If this is your first time using Spaceport, perhaps consider starting with the PORT-PIONEER,
-or PORT-MERCURY starter kits, which provide the same basic structure and configuration, but
-provide some basic functionality to get you started. Use Port-Echo if you want to start
-from scratch and want to implement the basics yourself.
+If this is your first time using Spaceport, perhaps consider starting with PORT-MERCURY 
+starter kit which provide the same basic structure and configuration, but provide some basic 
+functionality to get you started. Use Port-Echo if you want to start from scratch and want 
+to implement the basics yourself.
 
 Developer Onboarding: [https://spaceport.com.co/docs/developer-onboarding](https://spaceport.com.co/docs/developer-onboarding)
 
