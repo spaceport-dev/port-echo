@@ -4,7 +4,7 @@
 Port-Echo is a Spaceport starter kit that provides the most basic structure and configuration
 for building a Spaceport application, with no other assumptions.
 
-See also: [Scaffolds](https://spaceport.com.co/docs/scaffolds#echo) for more information.
+See also: [Scaffolds](https://spaceport.com.co/docs/scaffolds#port-echo) for more information.
 
 
 ## Getting Started
