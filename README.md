@@ -1,10 +1,10 @@
-![PORT-ECHO Graphic](https://spaceport.com.co/assets/port-echo-graphic.png "PORT-ECHO Graphic")
+![PORT-ECHO Graphic](https://spaceport.sh/assets/port-echo-graphic.png "PORT-ECHO Graphic")
 
 # Port-Echo
 Port-Echo is a Spaceport starter kit that provides the most basic structure and configuration
 for building a Spaceport application, with no other assumptions.
 
-See also: [Scaffolds](https://spaceport.com.co/docs/scaffolds#port-echo) for more information.
+See also: [Scaffolds](https://spaceport.sh/docs/scaffolds) for more information.
 
 
 ## Getting Started
@@ -13,7 +13,7 @@ starter kit which provide the same basic structure and configuration, but provid
 functionality to get you started. Use Port-Echo if you want to start from scratch and want 
 to implement the basics yourself.
 
-Developer Onboarding: [https://spaceport.com.co/docs/developer-onboarding](https://spaceport.com.co/docs/developer-onboarding)
+Developer Onboarding: [https://spaceport.com.co/docs/developer-onboarding](https://spaceport.sh/docs/developer-onboarding)
 
 
 ## Pre-requisites
@@ -36,13 +36,13 @@ java -jar spaceport.jar --start config.spaceport
 
 This will start the application using the configuration file `config.spaceport`.
 
-Don't have Spaceport? You can download it from the [Spaceport website](https://spaceport.com.co/builds/). Or, use
+Don't have Spaceport? You can download it from the [Spaceport website](https://spaceport.sh/builds/). Or, use
 the following command to grab the latest version:
 
 ```bash 
-curl -L https://spaceport.com.co/builds/spaceport-latest.jar -o spaceport.jar
+curl -L https://spaceport.sh/builds/spaceport-latest.jar -o spaceport.jar
 ```
 
 
 ## Learn more
-For more information about Spaceport, visit the [Spaceport documentation](https://spaceport.com.co/docs).
+For more information about Spaceport, visit the [Spaceport documentation](https://spaceport.sh/docs).
